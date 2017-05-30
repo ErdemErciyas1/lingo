@@ -1,0 +1,26 @@
+body {
+	background-color: #663399
+}
+	
+
+
+
+.lingotabel{
+	text-align: center;
+	margin-left:0px;
+	
+
+}
+
+.lingotabel input{
+	width: 30px;
+	margin-left: 5px;
+	height: 20px;
+}
+
+h1{
+	text-align: center;
+}
+.button {
+	background-color: #FF4500;
+}
